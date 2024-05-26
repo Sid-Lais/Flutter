@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/TelemedicineApp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/TelemedicineApp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/TelemedicineApp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bmi/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bmi/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bmi/build" />
+      <excludeFolder url="file://$MODULE_DIR$/calculator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/calculator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/calculator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/display/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/display/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/display/build" />
+      <excludeFolder url="file://$MODULE_DIR$/first_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/first_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/first_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/form/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/form/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/form/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mobile/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/mobile/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mobile/build" />
+      <excludeFolder url="file://$MODULE_DIR$/quiz_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/quiz_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/quiz_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/shopping_cart/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/shopping_cart/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/shopping_cart/build" />
+      <excludeFolder url="file://$MODULE_DIR$/task_manager/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/task_manager/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/task_manager/build" />
+      <excludeFolder url="file://$MODULE_DIR$/weather_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/weather_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/weather_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/wish/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/wish/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/wish/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

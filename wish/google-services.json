@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747683197625",
+    "project_id": "wish-c3680",
+    "storage_bucket": "wish-c3680.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747683197625:android:070bcc584d45bfb4c76168",
+        "android_client_info": {
+          "package_name": "com.example.wish"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtE2g6VRPFbexdTxpLAIg0CtwnvD5qqBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
